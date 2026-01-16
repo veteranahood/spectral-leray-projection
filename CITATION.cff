@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Hood"
+    given-names: "Anthony Scott"
+title: "Spectral Leray Projection for Incompressible Flow"
+version: 1.0.0
+date-released: 2026-01-16
+url: "https://github.com/veteranahood/spectral-leray-projection"
+license: MIT
+keywords:
+  - computational fluid dynamics
+  - incompressible flow
+  - spectral methods
+  - Leray projection
+  - FFT
+  - pressure projection
